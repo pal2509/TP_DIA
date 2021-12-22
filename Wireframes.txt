@@ -1,0 +1,187 @@
+{
+    "mockup": {
+        "controls": {
+            "control": [
+                {
+                    "ID": "0",
+                    "typeID": "AndroidPhone",
+                    "zOrder": "0",
+                    "measuredW": "356",
+                    "measuredH": "725",
+                    "x": "298",
+                    "y": "117",
+                    "properties": {
+                        "resizing": "stretch"
+                    }
+                },
+                {
+                    "ID": "1",
+                    "typeID": "Map",
+                    "zOrder": "1",
+                    "w": "313",
+                    "h": "500",
+                    "measuredW": "252",
+                    "measuredH": "222",
+                    "x": "320",
+                    "y": "263"
+                },
+                {
+                    "ID": "2",
+                    "typeID": "AppBar",
+                    "zOrder": "2",
+                    "w": "313",
+                    "h": "44",
+                    "measuredW": "320",
+                    "measuredH": "44",
+                    "x": "320",
+                    "y": "220"
+                },
+                {
+                    "ID": "3",
+                    "typeID": "CircleButton",
+                    "zOrder": "3",
+                    "w": "93",
+                    "h": "90",
+                    "measuredW": "48",
+                    "measuredH": "48",
+                    "x": "430",
+                    "y": "650",
+                    "properties": {
+                        "icon": {
+                            "ID": "plus",
+                            "size": "small"
+                        }
+                    }
+                },
+                {
+                    "ID": "7",
+                    "typeID": "List",
+                    "zOrder": "4",
+                    "w": "194",
+                    "h": "543",
+                    "measuredW": "100",
+                    "measuredH": "321",
+                    "x": "320",
+                    "y": "220",
+                    "properties": {
+                        "borderStyle": "none",
+                        "icons": {
+                            "icons": [
+                                {
+                                    "size": null
+                                },
+                                {
+                                    "size": null
+                                },
+                                {
+                                    "size": null
+                                },
+                                {
+                                    "size": null
+                                },
+                                {
+                                    "size": null
+                                },
+                                {
+                                    "size": null
+                                },
+                                {
+                                    "size": null
+                                },
+                                {
+                                    "size": null
+                                },
+                                {
+                                    "size": null
+                                },
+                                {
+                                    "size": null
+                                },
+                                {
+                                    "size": null
+                                },
+                                {
+                                    "size": null
+                                },
+                                {
+                                    "size": null
+                                },
+                                {
+                                    "size": null
+                                },
+                                {
+                                    "size": null
+                                }
+                            ]
+                        },
+                        "text": "\n\n\n\n\nHistórico\n\nPagamentos\n\nPerfil\n\nDefinições\n\nApoio\n"
+                    }
+                },
+                {
+                    "ID": "8",
+                    "typeID": "Icon",
+                    "zOrder": "5",
+                    "measuredW": "48",
+                    "measuredH": "48",
+                    "x": "466",
+                    "y": "220",
+                    "properties": {
+                        "icon": {
+                            "ID": "caret-down",
+                            "size": "large"
+                        },
+                        "rotation": "270"
+                    }
+                },
+                {
+                    "ID": "9",
+                    "typeID": "Image",
+                    "zOrder": "6",
+                    "w": "48",
+                    "h": "36",
+                    "measuredW": "77",
+                    "measuredH": "79",
+                    "x": "324",
+                    "y": "224"
+                },
+                {
+                    "ID": "10",
+                    "typeID": "Label",
+                    "zOrder": "7",
+                    "measuredW": "62",
+                    "measuredH": "21",
+                    "x": "376",
+                    "y": "233",
+                    "properties": {
+                        "text": "Username"
+                    }
+                },
+                {
+                    "ID": "11",
+                    "typeID": "Label",
+                    "zOrder": "8",
+                    "measuredW": "79",
+                    "measuredH": "21",
+                    "x": "367",
+                    "y": "662",
+                    "properties": {
+                        "text": "E-move Logo"
+                    }
+                }
+            ]
+        },
+        "attributes": {
+            "name": "New Wireframe 1 copy 2",
+            "order": 938447.7413531832,
+            "parentID": null,
+            "notes": null
+        },
+        "branchID": "Master",
+        "resourceID": "B3613B6B-E958-4A6F-AC62-FD3A0E7B7574",
+        "mockupH": "725",
+        "mockupW": "356",
+        "measuredW": "654",
+        "measuredH": "842",
+        "version": "1.0"
+    }
+}
